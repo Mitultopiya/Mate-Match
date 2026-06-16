@@ -2,7 +2,7 @@
      alt="Mate Match"
      width="400rem"/>
 
-#### This is a full-stack web application that allows users to find new roommates tailored to their preferences. [Click here](https://www.youtube.com/watch?v=c0ZcLqA5QlE) to view the demo.
+#### This is a full-stack web application that allows users to find new roommates tailored to their preferences.
 
 <hr/>
 
@@ -55,9 +55,6 @@
 - Utilized Knex database schema migrations to manage and version the database schema, allowing seamless updates and deployments.
 
 ## Cloud Architecture
-
-![High Level Cloud Architecture Diagram](https://github.com/kirkwat/mate-match/assets/60279003/024714eb-f4df-4145-b9b5-b2e504253ad9)
-
 
 The application was deployed on the AWS Cloud, following an architecture that adheres to the AWS Well-Architected Framework. Various AWS services were utilized to ensure alignment with recommended cloud architecture practices.
 
